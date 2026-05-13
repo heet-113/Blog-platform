@@ -1,7 +1,9 @@
 # Blog Platform
 
 A full-stack blogging platform where users can create posts, interact with other users, and build a community around shared content.
+
 [Live Demo](https://heet-113.github.io/Blog-platform-frontend/)
+
 ## Project Overview
 
 This is a complete MERN (MongoDB, Express, React, Node.js) stack application featuring:
